@@ -1,7 +1,7 @@
 // import CircularProgress from '@material-ui/core/CircularProgress';
 import * as React from 'react';
 import '../css/App.css';
-import CurrencyConverter from './FixerAPI/Fixer';
+import CurrencyConverter from './AlphaVantageAPI/AlphaVantage';
 
 export default class App extends React.Component<{}> {
 
